@@ -9,12 +9,13 @@ public class App {
 						  {11,12,13,14,15},	
 						  {16,5,18,19},
 						};
-		array a = new array();
+		//array a = new array();
+		//a.find(array1, 5);
 		
-		a.find(array1, 5);
-		
-		
-		
+		String  h = "Hallo World";
+		ReplaceBlank  a = new ReplaceBlank();
+		String c =a.replace(h);
+		System.out.println(a.replace(h));
 	}
 
 }
