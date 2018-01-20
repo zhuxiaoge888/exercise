@@ -62,5 +62,19 @@ public class App {
 	 * 	
 	 */
 		
+	/* exercrise 10 Number of Bits
+	 * 	
+	 */
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
