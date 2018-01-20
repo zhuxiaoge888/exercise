@@ -7,7 +7,9 @@ public class ListNode {
 		this.value=value;
 	}
 	
-	
+	public int getValue(){
+		return value;
+	}
 	
 	
 }

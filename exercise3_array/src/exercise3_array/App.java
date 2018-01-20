@@ -24,13 +24,34 @@ public class App {
 		System.out.println(a.replace(h));
 	*/
 		
+	/* exercrise 5
 	  	ListNode node1 = new ListNode(0);
 	  	ListNode node2 = new ListNode(1);
 	  	ListNode node3 = new ListNode(2);
-	  	
-		
-		
-		
+	  	ListNode node4 = new ListNode(3);
+
+	    node1.next = node2;
+	  	node2.next = node3;
+	  	node3.next = node4;
+		printListReverse.print(node1);
+	*/	
+	
+	/* exercirse 7 ,have a return problem
+	 * 
+	 * 
+		Queue<Integer>queue = new Queue<Integer>();
+		queue.push(0);
+		queue.push(1);
+		while(!queue.empty()){
+			System.out.println(queue.pop());
+		}
+		queue.push(2);
+		queue.push(3);
+		System.out.println("Hallo");
+		while(!queue.empty()){
+			System.out.println(queue.pop());
+		}
+	*/
 	}
 
 }
