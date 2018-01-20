@@ -57,5 +57,10 @@ public class App {
 		int array[] = {1,2,3,4,0,5};
 		new Rotate(array);
 	*/
+		
+	/* exercrise 9 Fibonacci no test for now
+	 * 	
+	 */
+		
 	}
 }
