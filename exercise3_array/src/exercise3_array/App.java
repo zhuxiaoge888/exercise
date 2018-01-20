@@ -52,6 +52,10 @@ public class App {
 			System.out.println(queue.pop());
 		}
 	*/
+	
+	/* exercrise 8 
+		int array[] = {1,2,3,4,0,5};
+		new Rotate(array);
+	*/
 	}
-
 }
