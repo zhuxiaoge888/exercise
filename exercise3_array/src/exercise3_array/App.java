@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class App {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 	/* exercise 3
 	 * 
 		int array1[][] = { {1,2,3,4,5},
@@ -66,10 +66,16 @@ public class App {
 	 * 	
 	 */
 	
-		
-		
-		
-		
+	/**execrise 11 Exponent 
+	 * 	
+	 Exponent a = new Exponent();	
+	 //int  b =(int )a.power(10.1, 2);  //output =102;
+	// double b =a.power(0, -1); 		//output = 102.00999999999
+	 double b1 = a .power(10, 0);
+	 double b2 = a .power(10, 1);
+	 double b3 = a .power(10, -2);
+	System.out.println(b1+b2+b3);
+	*/
 		
 		
 		
