@@ -98,14 +98,28 @@ public class App {
 	x.deleteList(a,b);
 	System.out.println(a.next.value);
 	*/	
+	
+	/** execrise 14 OddAndEvenNumber
+	 * 
 		int array[]= new int[]{0,1,2,3,4,5,6,7};		
 		OddAndEvenNumber a = new OddAndEvenNumber();
 		int b[]=a.sort(array);
 		for(int temp : b){
-			System.out.println(temp);
-			
+			System.out.println(temp);	
 		}
+	*/	
 		
-		
+	/** execrise 15 kLastNode
+	 * 	
+		ListNode a = new ListNode(0);
+		ListNode b = new ListNode(1);
+		ListNode c = new ListNode(2);
+		ListNode d = new ListNode(3);
+		a.next=b; 
+		b.next=c;
+		c.next=d;
+		kLastNode node = new kLastNode();
+		System.out.println(node.print(a, 1).value);
+	*/	
 	}
 }
