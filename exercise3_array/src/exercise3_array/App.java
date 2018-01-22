@@ -83,7 +83,22 @@ public class App {
 	a.print(3);
 	*/	
 		
-		
+	/** execrise 13 Linked List delete tailNode
+	 * 	
+	ListNode a = new ListNode(0);
+	ListNode b = new ListNode(1);
+	ListNode c = new ListNode(2);
+	ListNode d = new ListNode(3);
+		a.next=b; 
+		b.next=c;
+		c.next=d;
+		b =c;
+	System.out.println(b.value);
+	DeleteListNode x = new DeleteListNode();
+	x.deleteList(a,b);
+	System.out.println(a.next.value);
+	*/
+	
 		
 	}
 }

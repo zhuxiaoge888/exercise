@@ -1,8 +1,13 @@
 package exercise3_array;
 
 public class ListNode {
-	private int value;
+	int value;
 	ListNode next;
+	
+	ListNode(){
+		
+	}
+	
 	ListNode(int value){
 		this.value=value;
 	}
