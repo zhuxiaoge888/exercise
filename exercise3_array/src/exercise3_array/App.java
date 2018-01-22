@@ -121,5 +121,13 @@ public class App {
 		kLastNode node = new kLastNode();
 		System.out.println(node.print(a, 1).value);
 	*/	
+	
+	/** execrise 16 reverseList
+	 *  To DO! 
+	 */
+		
+		
+		
+		
 	}
 }
