@@ -133,6 +133,13 @@ public class App {
 	/** execrise 18 isTreeIncluded
 	 * 	To DO! 
 	 */
+	
+	/** execrise 19 mirror
+	 * 	To Do!
+	 */
+		
+		
+		
 		
 		
 	}
