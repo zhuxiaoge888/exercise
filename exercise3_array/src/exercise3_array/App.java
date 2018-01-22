@@ -97,8 +97,15 @@ public class App {
 	DeleteListNode x = new DeleteListNode();
 	x.deleteList(a,b);
 	System.out.println(a.next.value);
-	*/
-	
+	*/	
+		int array[]= new int[]{0,1,2,3,4,5,6,7};		
+		OddAndEvenNumber a = new OddAndEvenNumber();
+		int b[]=a.sort(array);
+		for(int temp : b){
+			System.out.println(temp);
+			
+		}
+		
 		
 	}
 }
