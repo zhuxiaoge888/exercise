@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class App {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception  {
 	/* exercise 3
 	 * 
 		int array1[][] = { {1,2,3,4,5},
@@ -76,9 +76,12 @@ public class App {
 	 double b3 = a .power(10, -2);
 	System.out.println(b1+b2+b3);
 	*/
-		
-		
-		
+	
+	/** execrise 12 PrintToMax
+	 * 
+	PrintToMax a = new PrintToMax();
+	a.print(3);
+	*/	
 		
 		
 		
