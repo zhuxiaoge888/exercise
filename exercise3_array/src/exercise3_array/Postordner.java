@@ -26,6 +26,6 @@ public class Postordner {
 			list.add(root.value);	
 		}	
 	}
-	111
+
 	
 }
